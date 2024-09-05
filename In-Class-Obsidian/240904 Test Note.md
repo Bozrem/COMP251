@@ -1,0 +1,1 @@
+In class today we discussed how our computer connects to the Linux server via SSH and how the UNIX file system works
